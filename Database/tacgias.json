@@ -1,0 +1,257 @@
+[{
+  "_id": {
+    "$oid": "627b63884886f500933e03c3"
+  },
+  "idtacgia": "1",
+  "tentacgia": "Châu Đăng Khoa",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/ChauDangKhoa.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b63ae4886f500933e03c5"
+  },
+  "idtacgia": "2",
+  "tentacgia": "Vũ Đức Thiện",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/VuDucThien.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b63bf4886f500933e03c7"
+  },
+  "idtacgia": "3",
+  "tentacgia": "JustaTee",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/JustaTee.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b63d04886f500933e03c9"
+  },
+  "idtacgia": "4",
+  "tentacgia": "Vũ Ngọc Bích",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/VuNgocBich.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b63e04886f500933e03cb"
+  },
+  "idtacgia": "5",
+  "tentacgia": "Hứa Kim Tuyền",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/HuaKimTuyen.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b63f24886f500933e03cd"
+  },
+  "idtacgia": "6",
+  "tentacgia": "Nguyễn Duy Anh",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/NguyenDuyAnh.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b64074886f500933e03cf"
+  },
+  "idtacgia": "7",
+  "tentacgia": "Việt Anh Trần",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/VietAnhTran.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b64264886f500933e03d1"
+  },
+  "idtacgia": "8",
+  "tentacgia": "Vương Anh Tú",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/VuongAnhTu.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b64344886f500933e03d3"
+  },
+  "idtacgia": "9",
+  "tentacgia": "Nhật Ngân",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/NhatNgan.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b64464886f500933e03d5"
+  },
+  "idtacgia": "10",
+  "tentacgia": "Thái Việt",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/ThaiViet.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b64574886f500933e03d7"
+  },
+  "idtacgia": "11",
+  "tentacgia": "Sơn Tùng M-TP",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/SonTung.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b64a84886f500933e03d9"
+  },
+  "idtacgia": "12",
+  "tentacgia": "Vũ Khắc Anh",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/VuKhacAnh.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b64b84886f500933e03db"
+  },
+  "idtacgia": "13",
+  "tentacgia": "Lê Tự Minh",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/LeTuMinh.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b64cd4886f500933e03dd"
+  },
+  "idtacgia": "14",
+  "tentacgia": "Giáng Son",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/GiangSon.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b64dc4886f500933e03df"
+  },
+  "idtacgia": "15",
+  "tentacgia": "Lê Thương",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/LeThuong.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b64ee4886f500933e03e1"
+  },
+  "idtacgia": "16",
+  "tentacgia": "Văn Chung",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/VanChung.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b64fd4886f500933e03e3"
+  },
+  "idtacgia": "17",
+  "tentacgia": "Yên Lam",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/YenLam.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b65154886f500933e03e5"
+  },
+  "idtacgia": "18",
+  "tentacgia": "Colbie Caillat",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/ColbieCaillat.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b65244886f500933e03e7"
+  },
+  "idtacgia": "19",
+  "tentacgia": "Train",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/Train.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b65334886f500933e03e9"
+  },
+  "idtacgia": "20",
+  "tentacgia": "Shane Filan",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/ShaneFilan.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b65424886f500933e03eb"
+  },
+  "idtacgia": "21",
+  "tentacgia": "Hồng Thanh",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/HongThanh.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b65514886f500933e03ed"
+  },
+  "idtacgia": "22",
+  "tentacgia": "Quốc Trung",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/QuocTrung.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b65614886f500933e03ef"
+  },
+  "idtacgia": "23",
+  "tentacgia": "Tú Dưa",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/TuDua.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b65724886f500933e03f1"
+  },
+  "idtacgia": "24",
+  "tentacgia": "Khắc Hưng",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/KhacHung.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b65b54886f500933e03f3"
+  },
+  "idtacgia": "25",
+  "tentacgia": "Trịnh Công Sơn",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/TrinhCongSon.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b65c54886f500933e03f5"
+  },
+  "idtacgia": "26",
+  "tentacgia": "Alan Walker",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/AlanWalker.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b65d94886f500933e03f7"
+  },
+  "idtacgia": "27",
+  "tentacgia": "Adele",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/Adele.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b65e84886f500933e03f9"
+  },
+  "idtacgia": "28",
+  "tentacgia": "Justin Bieber",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/JustinBieber.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b65f84886f500933e03fb"
+  },
+  "idtacgia": "29",
+  "tentacgia": "Taylor Swift",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/TaylorSwift.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b66064886f500933e03fd"
+  },
+  "idtacgia": "30",
+  "tentacgia": "Richard Clayderman",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/RichardClayderman.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b66204886f500933e03ff"
+  },
+  "idtacgia": "31",
+  "tentacgia": "Beethoven",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/Beethoven.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b662f4886f500933e0401"
+  },
+  "idtacgia": "32",
+  "tentacgia": "Chan Yeol",
+  "hinhtacgia": "http://192.168.1.5/Server/Data/AnhTacgia/Chanyeol.jpg",
+  "__v": 0
+}]

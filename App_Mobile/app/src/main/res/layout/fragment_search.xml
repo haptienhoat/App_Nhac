@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.SearchFragment">
+
+    <LinearLayout
+        android:background="#1976D2"
+        android:id="@+id/appbarlayoutsearchbaihat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/edittextsearch"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <ImageView
+            android:id="@+id/imageviewsearch"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/icontimkiem">
+        </ImageView>
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerviewsearchbaihat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/appbarlayoutsearchbaihat">
+    </androidx.recyclerview.widget.RecyclerView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerviewsearchalbum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/recyclerviewsearchbaihat"
+        tools:itemCount="4">
+    </androidx.recyclerview.widget.RecyclerView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerviewsearchtheloai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/recyclerviewsearchalbum"
+        tools:itemCount="4">
+    </androidx.recyclerview.widget.RecyclerView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerviewsearchcasi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/recyclerviewsearchtheloai"
+        tools:itemCount="4">
+    </androidx.recyclerview.widget.RecyclerView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerviewsearchtacgia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/recyclerviewsearchcasi">
+    </androidx.recyclerview.widget.RecyclerView>
+
+    <TextView
+        android:visibility="gone"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:text="Rất tiếc không có kết quả phù hợp"
+        android:id="@+id/textviewkhongcodulieu"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</RelativeLayout>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:id="@+id/coordinatorlayout"
+    android:background="#EFE9E8"
+    tools:context=".Activity.BaihatActivity">
+    
+    <com.google.android.material.appbar.AppBarLayout
+        android:fitsSystemWindows="true"
+        android:id="@+id/appbarlayout"
+        android:layout_width="match_parent"
+        android:layout_height="300dp">
+        <com.google.android.material.appbar.CollapsingToolbarLayout
+            app:expandedTitleGravity="center|bottom"
+            app:expandedTitleMarginBottom="33dp"
+            android:background="@mipmap/ic_launcher"
+            android:fitsSystemWindows="true"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            android:id="@+id/collapsingtoolbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_marginTop="-50dp"
+                android:id="@+id/imageviewbaihatback"
+                android:src="@drawable/iconback"
+                android:layout_width="30dp"
+                android:layout_height="30dp">
+            </ImageView>
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:backgroundTint="#7B1FA2"
+        android:src="@drawable/iconfloatingactionbutton"
+        android:scaleType="fitXY"
+        app:fabSize="normal"
+        android:id="@+id/floatingactionbutton"
+        app:layout_anchorGravity="bottom|center"
+        app:layout_anchor="@id/appbarlayout"
+        app:layout_behavior="@string/bottom_sheet_behavior"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </com.google.android.material.floatingactionbutton.FloatingActionButton>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_marginTop="50dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycleviewdanhsachbaihat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </androidx.recyclerview.widget.RecyclerView>
+    </androidx.core.widget.NestedScrollView>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

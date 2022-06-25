@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "6258dc525e25521c3a65237d"
+  },
+  "idalbum": "1011",
+  "tenalbum": "T mini Album",
+  "hinhalbum": "http://192.168.1.5/Server/Data/AnhAlbum/T-Toctien.jpg",
+  "casi": "Tóc Tiên",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6258f5015e25521c3a652387"
+  },
+  "idalbum": "1021",
+  "tenalbum": "Hương",
+  "hinhalbum": "http://192.168.1.5/Server/Data/AnhAlbum/Huong-VanMaiHuong.jpg",
+  "casi": "Văn Mai Hương",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6258f8c25e25521c3a652395"
+  },
+  "idalbum": "1031",
+  "tenalbum": "Điều chưa từng nói",
+  "hinhalbum": "http://192.168.1.5/Server/Data/AnhAlbum/DieuChuaTungNoi-BichPhuong.jpg",
+  "casi": "Bích Phương",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62590c495e25521c3a6523a1"
+  },
+  "idalbum": "1041",
+  "tenalbum": "Tổng hợp ca khúc Sơn Tùng MTP",
+  "hinhalbum": "http://192.168.1.5/Server/Data/AnhAlbum/TongHop-SonTungMTP.jpg",
+  "casi": "Sơn Tùng MTP",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625a3ee7efa4b0d8481813f5"
+  },
+  "idalbum": "4011",
+  "tenalbum": "Hừng đông",
+  "hinhalbum": "http://192.168.1.5/Server/Data/AnhAlbum/HungDong.jpg",
+  "casi": "Hoàng Rob",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625aa6caefa4b0d848181409"
+  },
+  "idalbum": "5011",
+  "tenalbum": "Tổng hợp nhạc Trịnh",
+  "hinhalbum": "http://192.168.1.5/Server/Data/AnhAlbum/nhacTrinh.jpg",
+  "casi": "Khánh Ly",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625aa8a3efa4b0d848181417"
+  },
+  "idalbum": "6011",
+  "tenalbum": "Different World",
+  "hinhalbum": "http://192.168.1.5/Server/Data/AnhAlbum/DiffirentWorld.jpg",
+  "casi": "Alan Walker",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625aaa1cefa4b0d848181423"
+  },
+  "idalbum": "6012",
+  "tenalbum": "Faded",
+  "hinhalbum": "http://192.168.1.5/Server/Data/AnhAlbum/Faded.jpg",
+  "casi": "Alan Walker",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625abedaefa4b0d848181431"
+  },
+  "idalbum": "7011",
+  "tenalbum": "25",
+  "hinhalbum": "http://192.168.1.5/Server/Data/AnhAlbum/25.jpg",
+  "casi": "Adele",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625ac075efa4b0d84818143d"
+  },
+  "idalbum": "7021",
+  "tenalbum": "PurPose ",
+  "hinhalbum": "http://192.168.1.5/Server/Data/AnhAlbum/PurPose.jpg",
+  "casi": "Justin Bieber",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625aca6eefa4b0d84818144f"
+  },
+  "idalbum": "8011",
+  "tenalbum": "Red",
+  "hinhalbum": "http://192.168.1.5/Server/Data/AnhAlbum/Red.jpg",
+  "casi": "Taylor Swift",
+  "__v": 0
+}]

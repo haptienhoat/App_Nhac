@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "6258da1d5e25521c3a652379"
+  },
+  "idtheloai": "1",
+  "tentheloai": "Nhạc POP",
+  "hinhtheloai": "http://192.168.1.5/Server/Data/AnhTheLoai/nhacPop.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62598e965e25521c3a6523b1"
+  },
+  "idtheloai": "2",
+  "tentheloai": "Nhạc Thiếu nhi",
+  "hinhtheloai": "http://192.168.1.5/Server/Data/AnhTheLoai/nhacThieuNhi.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625999aa5e25521c3a6523c3"
+  },
+  "idtheloai": "3",
+  "tentheloai": "Wedding Songs",
+  "hinhtheloai": "http://192.168.1.5/Server/Data/AnhTheLoai/weddingday.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625a3e8fefa4b0d8481813f1"
+  },
+  "idtheloai": "4",
+  "tentheloai": "Nhạc Không lời",
+  "hinhtheloai": "http://192.168.1.5/Server/Data/AnhTheLoai/nhacKhongLoi.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625aa671efa4b0d848181405"
+  },
+  "idtheloai": "5",
+  "tentheloai": "Nhạc Trịnh",
+  "hinhtheloai": "http://192.168.1.5/Server/Data/AnhTheLoai/nhacTrinh.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625aa859efa4b0d848181413"
+  },
+  "idtheloai": "6",
+  "tentheloai": "EDM",
+  "hinhtheloai": "http://192.168.1.5/Server/Data/AnhTheLoai/EDM.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625aab8aefa4b0d84818142d"
+  },
+  "idtheloai": "7",
+  "tentheloai": "US-UK",
+  "hinhtheloai": "http://192.168.1.5/Server/Data/AnhTheLoai/USUK.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625aca27efa4b0d84818144b"
+  },
+  "idtheloai": "8",
+  "tentheloai": "Country Music",
+  "hinhtheloai": "http://192.168.1.5/Server/Data/AnhTheLoai/CountryMusic.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625acbb3efa4b0d84818145b"
+  },
+  "idtheloai": "9",
+  "tentheloai": "Nhạc Giao hưởng ",
+  "hinhtheloai": "http://192.168.1.5/Server/Data/AnhTheLoai/NhacGiaoHuong.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625acd2aefa4b0d848181469"
+  },
+  "idtheloai": "10",
+  "tentheloai": "OST",
+  "hinhtheloai": "http://192.168.1.5/Server/Data/AnhTheLoai/OST.jpg",
+  "__v": 0
+}]

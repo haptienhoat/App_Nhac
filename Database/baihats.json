@@ -1,0 +1,859 @@
+[{
+  "_id": {
+    "$oid": "6258dcfe5e25521c3a65237f"
+  },
+  "idbaihat": "101101",
+  "idalbum": "1011",
+  "idtheloai": "1",
+  "tenbaihat": "Big Girls Don’t Cry",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/bigGirlsDontCry.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/TocTien/Big-Girls-Don-t-Cry-Toc-Tien.mp3",
+  "casi": "Tóc Tiên",
+  "__v": 0,
+  "tacgia": "Châu Đăng Khoa"
+},{
+  "_id": {
+    "$oid": "6258f41b5e25521c3a652381"
+  },
+  "idbaihat": "101102",
+  "idalbum": "1011",
+  "idtheloai": "1",
+  "tenbaihat": "I’m In Love",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/ImInLove.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/TocTien/I-m-In-Love-Toc-Tien.mp3",
+  "casi": "Tóc Tiên",
+  "__v": 0,
+  "tacgia": "Vũ Đức Thiện"
+},{
+  "_id": {
+    "$oid": "6258f4a85e25521c3a652383"
+  },
+  "idbaihat": "101103",
+  "idalbum": "1011",
+  "idtheloai": "1",
+  "tenbaihat": "The Beat Of Celebration",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/TheBeatOfCelebration.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/TocTien/The-Beat-Of-Celebration-Toc-Tien-BigDaddy-JustaTee-Touliver.mp3",
+  "casi": "Tóc Tiên",
+  "__v": 0,
+  "tacgia": "JustaTee"
+},{
+  "_id": {
+    "$oid": "6258f56a5e25521c3a652389"
+  },
+  "idbaihat": "102101",
+  "idalbum": "1021",
+  "idtheloai": "1",
+  "tenbaihat": "Đã lâu lắm rồi",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/DaLauLamRoi.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/VanMaiHuong/Da-Lau-Lam-Roi-Van-Mai-Huong.mp3",
+  "casi": "Văn Mai Hương",
+  "__v": 0,
+  "tacgia": "Vũ Ngọc Bích"
+},{
+  "_id": {
+    "$oid": "6258f5d95e25521c3a65238b"
+  },
+  "idbaihat": "102102",
+  "idalbum": "1021",
+  "idtheloai": "1",
+  "tenbaihat": "Đốt",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/Dot.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/VanMaiHuong/Dot-Van-Mai-Huong.mp3",
+  "casi": "Văn Mai Hương",
+  "__v": 0,
+  "tacgia": "Hứa Kim Tuyền"
+},{
+  "_id": {
+    "$oid": "6258f6dd5e25521c3a65238d"
+  },
+  "idbaihat": "102103",
+  "idalbum": "1021",
+  "idtheloai": "1",
+  "tenbaihat": "Hương",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/Huong.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/VanMaiHuong/Huong-Van-Mai-Huong-Negav.mp3",
+  "casi": "Văn Mai Hương",
+  "__v": 0,
+  "tacgia": "Hứa Kim Tuyền"
+},{
+  "_id": {
+    "$oid": "6258f7795e25521c3a65238f"
+  },
+  "idbaihat": "102104",
+  "idalbum": "1021",
+  "idtheloai": "1",
+  "tenbaihat": "Mai đây em thương một chàng trai",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/MaiDayEmThuongMotChangTrai.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/VanMaiHuong/Mai-Day-Em-Thuong-Mot-Chang-Trai-Van-Mai-Huong.mp3",
+  "casi": "Văn Mai Hương",
+  "__v": 0,
+  "tacgia": "Nguyễn Duy Anh"
+},{
+  "_id": {
+    "$oid": "6258f8575e25521c3a652391"
+  },
+  "idbaihat": "102105",
+  "idalbum": "1021",
+  "idtheloai": "1",
+  "tenbaihat": "Nghe nói anh sắp kết hôn",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/NgheNoiAnhSapKetHon.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/VanMaiHuong/Nghe-Noi-Anh-Sap-Ket-Hon-Solo-Version-Van-Mai-Huong.mp3",
+  "casi": "Văn Mai Hương",
+  "__v": 0,
+  "tacgia": "Hứa Kim Tuyền"
+},{
+  "_id": {
+    "$oid": "6258fa305e25521c3a652397"
+  },
+  "idbaihat": "103101",
+  "idalbum": "1031",
+  "idtheloai": "1",
+  "tenbaihat": "Đêm em chờ",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/DemEmCho.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/BichPhuong/Dem-Em-Cho-Bich-Phuong.mp3",
+  "casi": "Bích Phương",
+  "__v": 0,
+  "tacgia": "Việt Anh Trần"
+},{
+  "_id": {
+    "$oid": "6258fab65e25521c3a652399"
+  },
+  "idbaihat": "103102",
+  "idalbum": "1031",
+  "idtheloai": "1",
+  "tenbaihat": "Giúp em trả lời những câu hỏi",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/GiupEmTraLoiNhungCauHoi.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/BichPhuong/Giup-Em-Tra-Loi-Nhung-Cau-Hoi-Bich-Phuong.mp3",
+  "casi": "Bích Phương",
+  "__v": 0,
+  "tacgia": "Vương Anh Tú"
+},{
+  "_id": {
+    "$oid": "6258fb125e25521c3a65239b"
+  },
+  "idbaihat": "103103",
+  "idalbum": "1031",
+  "idtheloai": "1",
+  "tenbaihat": "Nụ hồng mong manh",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/NuHongMongManh.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/BichPhuong/Nu-Hong-Mong-Manh-Bich-Phuong.mp3",
+  "casi": "Bích Phương",
+  "__v": 0,
+  "tacgia": "Nhật Ngân"
+},{
+  "_id": {
+    "$oid": "6258fbc05e25521c3a65239d"
+  },
+  "idbaihat": "103104",
+  "idalbum": "1031",
+  "idtheloai": "1",
+  "tenbaihat": "Phai dấu cuộc tình",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/PhaiDauCuocTinh.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/BichPhuong/Phai-Dau-Cuoc-Tinh-Bich-Phuong.mp3",
+  "casi": "Bích Phương",
+  "__v": 0,
+  "tacgia": "Thái Việt"
+},{
+  "_id": {
+    "$oid": "62590cfd5e25521c3a6523a3"
+  },
+  "idbaihat": " 104101",
+  "idalbum": "1041",
+  "idtheloai": "1",
+  "tenbaihat": "Chắc ai đó sẽ về",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/ChacAiDoSeVe.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/SonTung/ChacAiDoSeVeNewVersion-SonTungMTP-3698290.mp3",
+  "casi": "Sơn Tùng MTP",
+  "__v": 0,
+  "tacgia": "Sơn Tùng M-TP"
+},{
+  "_id": {
+    "$oid": "62590e305e25521c3a6523a5"
+  },
+  "idbaihat": "104102",
+  "idalbum": "1041",
+  "idtheloai": "1",
+  "tenbaihat": "Em của ngày hôm qua",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/EmCuaNgayHomQua.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/SonTung/Em-Cua-Ngay-Hom-Qua.mp3",
+  "casi": "Sơn Tùng MTP",
+  "__v": 0,
+  "tacgia": "Sơn Tùng M-TP"
+},{
+  "_id": {
+    "$oid": "625911995e25521c3a6523a7"
+  },
+  "idbaihat": "104103",
+  "idalbum": "1041",
+  "idtheloai": "1",
+  "tenbaihat": "Khuôn mặt đáng thương",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/KhuonMatDangThuong.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/SonTung/Khuon-Mat-Dang-Thuong-Son-Tung-M-TP.mp3",
+  "casi": "Sơn Tùng MTP",
+  "__v": 0,
+  "tacgia": "Sơn Tùng M-TP"
+},{
+  "_id": {
+    "$oid": "625912315e25521c3a6523a9"
+  },
+  "idbaihat": "104104",
+  "idalbum": "1041",
+  "idtheloai": "1",
+  "tenbaihat": "Nắng ấm xa dần",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/NangAmXaDan.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/SonTung/Nang-Am-Xa-Dan-Team-Son-Tung-M-TP-Slim-V-DJ-Trang-Moon-Son-Tung-M-TP.mp3",
+  "casi": "Sơn Tùng MTP",
+  "__v": 0,
+  "tacgia": "Sơn Tùng M-TP"
+},{
+  "_id": {
+    "$oid": "625912c55e25521c3a6523ab"
+  },
+  "idbaihat": "104105",
+  "idalbum": "1041",
+  "idtheloai": "1",
+  "tenbaihat": "Nơi này có anh",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/NoiNayCoAnh.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/SonTung/Noi-Nay-Co-Anh-Masew-Bootleg-Son-Tung-M-TP-Masew.mp3",
+  "casi": "Sơn Tùng MTP",
+  "__v": 0,
+  "tacgia": "Sơn Tùng M-TP"
+},{
+  "_id": {
+    "$oid": "62598de35e25521c3a6523af"
+  },
+  "idbaihat": "105101",
+  "idalbum": "0",
+  "idtheloai": "1",
+  "tenbaihat": "Rung động",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/Rung-Dong.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/Rung-Dong-Duong-Edward.mp3",
+  "casi": "Dương Edward",
+  "__v": 0,
+  "tacgia": "Vũ Khắc Anh"
+},{
+  "_id": {
+    "$oid": "625994a75e25521c3a6523b7"
+  },
+  "idbaihat": "201101",
+  "idalbum": "0",
+  "idtheloai": "2",
+  "tenbaihat": "Gặp mẹ trong mơ",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/GapMeTrongMo.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/NhacThieuNhi/Gap-Me-Trong-Mo-Thuy-Chi.mp3",
+  "casi": "Thùy Chi",
+  "__v": 0,
+  "tacgia": "Lê Tự Minh"
+},{
+  "_id": {
+    "$oid": "625994e75e25521c3a6523b9"
+  },
+  "idbaihat": "201102",
+  "idalbum": "0",
+  "idtheloai": "2",
+  "tenbaihat": "Nhà em ở lưng đổi",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/NhaEmOLungDoi.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/NhacThieuNhi/Nha-Em-O-Lung-Doi-Thuy-Chi.mp3",
+  "casi": "Thùy Chi",
+  "__v": 0,
+  "tacgia": "Lê Tự Minh"
+},{
+  "_id": {
+    "$oid": "625995255e25521c3a6523bb"
+  },
+  "idbaihat": "201103",
+  "idalbum": "0",
+  "idtheloai": "2",
+  "tenbaihat": "Giấc mơ trưa ",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/GiacMoTrua.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/NhacThieuNhi/Giac-Mo-Trua-Thuy-Chi.mp3",
+  "casi": "Thùy Chi",
+  "__v": 0,
+  "tacgia": "Giáng Son"
+},{
+  "_id": {
+    "$oid": "6259958c5e25521c3a6523bd"
+  },
+  "idbaihat": "202101",
+  "idalbum": "0",
+  "idtheloai": "2",
+  "tenbaihat": "Thằng Cuội",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/ThangCuoi.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/NhacThieuNhi/Thang-Cuoi-Be-Bao-Ngu.mp3",
+  "casi": "Bé Bào Ngư",
+  "__v": 0,
+  "tacgia": "Lê Thương"
+},{
+  "_id": {
+    "$oid": "625995fa5e25521c3a6523bf"
+  },
+  "idbaihat": "202102",
+  "idalbum": "0",
+  "idtheloai": "2",
+  "tenbaihat": "Đếm sao",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/DemSao.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/NhacThieuNhi/Dem-Sao-Be-Bao-Ngu.mp3",
+  "casi": "Bé Bào Ngư",
+  "__v": 0,
+  "tacgia": "Văn Chung"
+},{
+  "_id": {
+    "$oid": "625996315e25521c3a6523c1"
+  },
+  "idbaihat": "202103",
+  "idalbum": "0",
+  "idtheloai": "2",
+  "tenbaihat": "Bé chơi lồng đèn",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/BeChoiLongDen.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/NhacThieuNhi/Be%20Choi%20Long%20Den%20-%20Be%20Bao%20Ngu.mp3",
+  "casi": "Bé Bào Ngư",
+  "__v": 0,
+  "tacgia": "Yên Lam"
+},{
+  "_id": {
+    "$oid": "62599a565e25521c3a6523cb"
+  },
+  "idbaihat": "301101",
+  "idalbum": "0",
+  "idtheloai": "3",
+  "tenbaihat": "I do",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/IDo.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/WeddingDay/I-Do-911.mp3",
+  "casi": "911",
+  "__v": 0,
+  "tacgia": "Colbie Caillat"
+},{
+  "_id": {
+    "$oid": "62599a985e25521c3a6523cd"
+  },
+  "idbaihat": "302101",
+  "idalbum": "0",
+  "idtheloai": "3",
+  "tenbaihat": "Marry me",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/MarryMe.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/WeddingDay/MarryMe-Train-5387127.mp3",
+  "casi": "Train ",
+  "__v": 0,
+  "tacgia": "Train"
+},{
+  "_id": {
+    "$oid": "62599b8d5e25521c3a6523cf"
+  },
+  "idbaihat": "303101",
+  "idalbum": "0",
+  "idtheloai": "3",
+  "tenbaihat": "Beautiful In White",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/BeautifulInWhite.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/WeddingDay/BeautifulInWhite-ShaneStevenFilan_368jp.mp3",
+  "casi": "Shane Filan",
+  "__v": 0,
+  "tacgia": "Shane Filan"
+},{
+  "_id": {
+    "$oid": "625a3d45efa4b0d8481813ef"
+  },
+  "idbaihat": "304101",
+  "idalbum": "0",
+  "idtheloai": "3",
+  "tenbaihat": "Đám cưới nha",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/Dam-Cuoi-Nha.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/Dam-Cuoi-Nha-Hong-Thanh-DJ-Mie.mp3",
+  "casi": "Hồng Thanh",
+  "__v": 0,
+  "tacgia": "Hồng Thanh"
+},{
+  "_id": {
+    "$oid": "625a3f26efa4b0d8481813f7"
+  },
+  "idbaihat": "401101",
+  "idalbum": "4011",
+  "idtheloai": "4",
+  "tenbaihat": "Con chim sâu",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhAlbum/HungDong.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/NhacKhongLoi/Con-Chim-Sau-Hoang-Rob-Nguyen-Kieu-Anh.mp3",
+  "casi": "Hoàng Rob",
+  "__v": 0,
+  "tacgia": "Quốc Trung"
+},{
+  "_id": {
+    "$oid": "625a3f7eefa4b0d8481813f9"
+  },
+  "idbaihat": "401102",
+  "idalbum": "4011",
+  "idtheloai": "4",
+  "tenbaihat": "Đối thoại ",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhAlbum/HungDong.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/NhacKhongLoi/Doi-Thoai-Hoang-Rob-Tran-Van-Xam.mp3",
+  "casi": "Hoàng Rob",
+  "__v": 0,
+  "tacgia": "Tú Dưa"
+},{
+  "_id": {
+    "$oid": "625a3fa5efa4b0d8481813fb"
+  },
+  "idbaihat": "401103",
+  "idalbum": "4011",
+  "idtheloai": "4",
+  "tenbaihat": "Hừng đông",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhAlbum/HungDong.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/NhacKhongLoi/Hung-Dong-Hoang-Rob.mp3",
+  "casi": "Hoàng Rob",
+  "__v": 0,
+  "tacgia": "Khắc Hưng"
+},{
+  "_id": {
+    "$oid": "625a3fcdefa4b0d8481813fd"
+  },
+  "idbaihat": "401104",
+  "idalbum": "4011",
+  "idtheloai": "4",
+  "tenbaihat": "Mây bay cuối trời",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhAlbum/HungDong.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/NhacKhongLoi/May-Bay-Cuoi-Troi-Hoang-Rob-Tran-Thu-Ha.mp3",
+  "casi": "Hoàng Rob",
+  "__v": 0,
+  "tacgia": "Khắc Hưng"
+},{
+  "_id": {
+    "$oid": "625a3ffdefa4b0d8481813ff"
+  },
+  "idbaihat": " 401105",
+  "idalbum": "4011",
+  "idtheloai": "4",
+  "tenbaihat": "Những đứa trẻ",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhAlbum/HungDong.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/NhacKhongLoi/Nhung-Dua-Tre-Hoang-Rob-Gen9.mp3",
+  "casi": "Hoàng Rob",
+  "__v": 0,
+  "tacgia": "Khắc Hưng"
+},{
+  "_id": {
+    "$oid": "625a4028efa4b0d848181401"
+  },
+  "idbaihat": "401106",
+  "idalbum": "4011",
+  "idtheloai": "4",
+  "tenbaihat": "Tiếng đêm",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhAlbum/HungDong.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/NhacKhongLoi/Tieng-Dem-Hoang-Rob.mp3",
+  "casi": "Hoàng Rob",
+  "__v": 0,
+  "tacgia": "Khắc Hưng"
+},{
+  "_id": {
+    "$oid": "625a404befa4b0d848181403"
+  },
+  "idbaihat": "401107",
+  "idalbum": "4011",
+  "idtheloai": "4",
+  "tenbaihat": "Tiếng vọng",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhAlbum/HungDong.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/NhacKhongLoi/Tieng-Vong-Hoang-Rob.mp3",
+  "casi": "Hoàng Rob",
+  "__v": 0,
+  "tacgia": "Khắc Hưng"
+},{
+  "_id": {
+    "$oid": "625aa75aefa4b0d84818140b"
+  },
+  "idbaihat": "501101",
+  "idalbum": "5011",
+  "idtheloai": "5",
+  "tenbaihat": "Còn tuổi nào cho em",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhCaSi/KhanhLy.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/KhanhLy/Con%20Tuoi%20Nao%20Cho%20Em%20-%20Khanh%20Ly.mp3",
+  "casi": "Khánh Ly",
+  "__v": 0,
+  "tacgia": "Trịnh Công Sơn"
+},{
+  "_id": {
+    "$oid": "625aa7ebefa4b0d84818140f"
+  },
+  "idbaihat": "501102",
+  "idalbum": " 5011",
+  "idtheloai": "5",
+  "tenbaihat": "Diễm xưa",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhCaSi/KhanhLy.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/KhanhLy/Diem%20Xua%20-%20Khanh%20Ly.mp3",
+  "casi": "Khánh Ly",
+  "__v": 0,
+  "tacgia": "Trịnh Công Sơn"
+},{
+  "_id": {
+    "$oid": "625aa81aefa4b0d848181411"
+  },
+  "idbaihat": "501103",
+  "idalbum": "5011",
+  "idtheloai": "5",
+  "tenbaihat": "Đêm thấy ta là thác đổ",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhCaSi/KhanhLy.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/KhanhLy/Dem%20Thay%20Ta%20La%20Thac%20Do%20-%20Khanh%20Ly%20(NhacPro.net).mp3",
+  "casi": "Khánh Ly",
+  "__v": 0,
+  "tacgia": "Trịnh Công Sơn"
+},{
+  "_id": {
+    "$oid": "625aa923efa4b0d848181419"
+  },
+  "idbaihat": "601101",
+  "idalbum": "6011",
+  "idtheloai": "6",
+  "tenbaihat": "Lost Control ",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/LostControl.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/EDM/DW/LostControl-AlanWalkerSorana-5815023.mp3",
+  "casi": "Alan Walker",
+  "__v": 0,
+  "tacgia": "Alan Walker"
+},{
+  "_id": {
+    "$oid": "625aa95cefa4b0d84818141b"
+  },
+  "idbaihat": "601102",
+  "idalbum": "6011",
+  "idtheloai": "6",
+  "tenbaihat": "I Don't Wanna Go",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/IDontWannaGo.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/EDM/DW/IDontWannaGo-AlanWalkerJulieBergan-5815029.mp3",
+  "casi": "Alan Walker",
+  "__v": 0,
+  "tacgia": "Alan Walker"
+},{
+  "_id": {
+    "$oid": "625aa98cefa4b0d84818141d"
+  },
+  "idbaihat": " 601103",
+  "idalbum": "6011",
+  "idtheloai": "6",
+  "tenbaihat": "Lily",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/Lily.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/EDM/DW/Lily-AlanWalkerK391EmelieHollow-5815034.mp3",
+  "casi": "Alan Walker",
+  "__v": 0,
+  "tacgia": "Alan Walker"
+},{
+  "_id": {
+    "$oid": "625aa9beefa4b0d84818141f"
+  },
+  "idbaihat": "601104",
+  "idalbum": "6011",
+  "idtheloai": "6",
+  "tenbaihat": "Lonely",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/Lonely.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/EDM/DW/Lonely-AlanWalkerSteveAokiISAKOmarNoir-5815042.mp3",
+  "casi": "Alan Walker",
+  "__v": 0,
+  "tacgia": "Alan Walker"
+},{
+  "_id": {
+    "$oid": "625aa9eaefa4b0d848181421"
+  },
+  "idbaihat": "601105",
+  "idalbum": "6011",
+  "idtheloai": "6",
+  "tenbaihat": "Do It All for You",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/DoItAllForYou.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/EDM/DW/Do%20It%20All%20For%20You%20-%20Alan%20Walker_%20Trevor.mp3",
+  "casi": "Alan Walker",
+  "__v": 0,
+  "tacgia": "Alan Walker"
+},{
+  "_id": {
+    "$oid": "625aaa4fefa4b0d848181425"
+  },
+  "idbaihat": "601201",
+  "idalbum": "6012",
+  "idtheloai": "6",
+  "tenbaihat": "Faded ",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/Faded.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/EDM/F/Faded-AlanWalker-5919763.mp3",
+  "casi": "Alan Walker",
+  "__v": 0,
+  "tacgia": "Alan Walker"
+},{
+  "_id": {
+    "$oid": "625aaa7befa4b0d848181427"
+  },
+  "idbaihat": "601202",
+  "idalbum": "6012",
+  "idtheloai": "6",
+  "tenbaihat": "Alone",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/Alone.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/EDM/F/Alone-AlanWalker-5815087.mp3",
+  "casi": "Alan Walker",
+  "__v": 0,
+  "tacgia": "Alan Walker"
+},{
+  "_id": {
+    "$oid": "625aaaa7efa4b0d848181429"
+  },
+  "idbaihat": "601203",
+  "idalbum": "6012",
+  "idtheloai": "6",
+  "tenbaihat": "Tired",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/Tired.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/EDM/F/Tired-AlanWalkerGavinJames-5169596.mp3",
+  "casi": "Alan Walker",
+  "__v": 0,
+  "tacgia": "Alan Walker"
+},{
+  "_id": {
+    "$oid": "625aab6aefa4b0d84818142b"
+  },
+  "idbaihat": "601204",
+  "idalbum": "6012",
+  "idtheloai": "6",
+  "tenbaihat": "The Spectre",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/TheSpectre.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/EDM/F/TheSpectre-AlanWalker-5168081.mp3",
+  "casi": "Alan Walker",
+  "__v": 0,
+  "tacgia": "Alan Walker"
+},{
+  "_id": {
+    "$oid": "625abf27efa4b0d848181433"
+  },
+  "idbaihat": "701101",
+  "idalbum": "7011",
+  "idtheloai": "7",
+  "tenbaihat": "Hello",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/Hello.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/USUK/Hello%20-%20Adele.mp3",
+  "casi": "Adele",
+  "__v": 0,
+  "tacgia": "Adele"
+},{
+  "_id": {
+    "$oid": "625abf5eefa4b0d848181435"
+  },
+  "idbaihat": "701102",
+  "idalbum": "7011",
+  "idtheloai": "7",
+  "tenbaihat": "Send My Love",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/SendMyLove.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/USUK/Send%20My%20Love%20To%20Your%20New%20Lover_%20-%20Adele.mp3",
+  "casi": "Adele",
+  "__v": 0,
+  "tacgia": "Adele"
+},{
+  "_id": {
+    "$oid": "625abf90efa4b0d848181437"
+  },
+  "idbaihat": "701103",
+  "idalbum": "7011",
+  "idtheloai": "7",
+  "tenbaihat": "I Miss You",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/IMissYou.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/USUK/I%20Miss%20You%20-%20Adele.mp3",
+  "casi": "Adele",
+  "__v": 0,
+  "tacgia": "Adele"
+},{
+  "_id": {
+    "$oid": "625abfbcefa4b0d848181439"
+  },
+  "idbaihat": "701104",
+  "idalbum": "7011",
+  "idtheloai": "7",
+  "tenbaihat": "When We Were Young",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/WhenWeWereYoung.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/USUK/When%20We%20Were%20Young%20-%20Adele.mp3",
+  "casi": "Adele",
+  "__v": 0,
+  "tacgia": "Adele"
+},{
+  "_id": {
+    "$oid": "625ac752efa4b0d84818143f"
+  },
+  "idbaihat": "702101",
+  "idalbum": "7021",
+  "idtheloai": "7",
+  "tenbaihat": "Mark My Words ",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/MarkMyWords.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/USUK/Mark%20My%20Words%20-%20Justin%20Bieber.mp3",
+  "casi": "Justin Bieber",
+  "__v": 0,
+  "tacgia": "Justin Bieber"
+},{
+  "_id": {
+    "$oid": "625ac794efa4b0d848181441"
+  },
+  "idbaihat": "702102",
+  "idalbum": "7021",
+  "idtheloai": "7",
+  "tenbaihat": "I’ll Show You",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/IllShowYou.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/USUK/I_ll%20Show%20You%20-%20Justin%20Bieber.mp3",
+  "casi": "Justin Bieber",
+  "__v": 0,
+  "tacgia": "Justin Bieber"
+},{
+  "_id": {
+    "$oid": "625ac960efa4b0d848181445"
+  },
+  "idbaihat": " 702103",
+  "idalbum": "7021",
+  "idtheloai": "7",
+  "tenbaihat": "What Do You Mean",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/WhatDoYouMean2.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/USUK/WhatDoYouMean-JustinBieber-4220849.mp3",
+  "casi": "Justin Bieber",
+  "__v": 0,
+  "tacgia": "Justin Bieber"
+},{
+  "_id": {
+    "$oid": "625ac994efa4b0d848181447"
+  },
+  "idbaihat": "702104",
+  "idalbum": "7021",
+  "idtheloai": "7",
+  "tenbaihat": "Sorry ",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/Sorry.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/USUK/Sorry-JustinBieber-5008978.mp3",
+  "casi": "Justin Bieber",
+  "__v": 0,
+  "tacgia": "Justin Bieber"
+},{
+  "_id": {
+    "$oid": "625ac9bfefa4b0d848181449"
+  },
+  "idbaihat": "702105",
+  "idalbum": "7021",
+  "idtheloai": "7",
+  "tenbaihat": "Love Yourself ",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/LoveYourself.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/USUK/LoveYourself-JustinBieber-5319409.mp3",
+  "casi": "Justin Bieber",
+  "__v": 0,
+  "tacgia": "Justin Bieber"
+},{
+  "_id": {
+    "$oid": "625acab5efa4b0d848181451"
+  },
+  "idbaihat": "801101",
+  "idalbum": "8011",
+  "idtheloai": "8",
+  "tenbaihat": "State of Grace ",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/StateofGrace.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/CountryMusic/StateOfGrace-TaylorSwift-5810027.mp3",
+  "casi": "Taylor Swift",
+  "__v": 0,
+  "tacgia": "Taylor Swift"
+},{
+  "_id": {
+    "$oid": "625acaecefa4b0d848181453"
+  },
+  "idbaihat": "801102",
+  "idalbum": "8011",
+  "idtheloai": "8",
+  "tenbaihat": "Red",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/Red.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/CountryMusic/Red%20-%20Taylor%20Swift.mp3",
+  "casi": "Taylor Swift",
+  "__v": 0,
+  "tacgia": "Taylor Swift"
+},{
+  "_id": {
+    "$oid": "625acb38efa4b0d848181455"
+  },
+  "idbaihat": "801103",
+  "idalbum": "8011",
+  "idtheloai": "8",
+  "tenbaihat": "Treacherous",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/Treacherous.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/CountryMusic/Treacherous%20-%20Taylor%20Swift.mp3",
+  "casi": "Taylor Swift",
+  "__v": 0,
+  "tacgia": "Taylor Swift"
+},{
+  "_id": {
+    "$oid": "625acb66efa4b0d848181457"
+  },
+  "idbaihat": "801104",
+  "idalbum": "8011",
+  "idtheloai": "8",
+  "tenbaihat": "I Knew You Were Trouble",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/IKnewYouWereTrouble.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/CountryMusic/I%20Knew%20You%20Were%20Trouble%20-%20Taylor%20Swift.mp3",
+  "casi": "Taylor Swift",
+  "__v": 0,
+  "tacgia": "Taylor Swift"
+},{
+  "_id": {
+    "$oid": "625acb8fefa4b0d848181459"
+  },
+  "idbaihat": "801105",
+  "idalbum": "8011",
+  "idtheloai": "8",
+  "tenbaihat": "All Too Well",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/AllTooWell.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/CountryMusic/All%20Too%20Well%20-%20Taylor%20Swift.mp3",
+  "casi": "Taylor Swift",
+  "__v": 0,
+  "tacgia": "Taylor Swift"
+},{
+  "_id": {
+    "$oid": "625acc51efa4b0d848181461"
+  },
+  "idbaihat": "901001",
+  "idalbum": "0",
+  "idtheloai": "9",
+  "tenbaihat": "A Comme Amour",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhCaSi/RichardClayderman.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/NhacGiaoHuong/ACommeAmour-RichardClayderman_3ad2g.mp3",
+  "casi": "Richard Clayderman",
+  "__v": 0,
+  "tacgia": "Richard Clayderman"
+},{
+  "_id": {
+    "$oid": "625acc8befa4b0d848181463"
+  },
+  "idbaihat": "902001",
+  "idalbum": "0",
+  "idtheloai": "9",
+  "tenbaihat": "Sonata Ánh trăng",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhCaSi/Beethoven.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/NhacGiaoHuong/SonatAnhTrang-HoaTau-3089149.mp3",
+  "casi": "Beethoven ",
+  "__v": 0,
+  "tacgia": "Beethoven"
+},{
+  "_id": {
+    "$oid": "625acccaefa4b0d848181465"
+  },
+  "idbaihat": "902002",
+  "idalbum": "0",
+  "idtheloai": "9",
+  "tenbaihat": "Bản giao hưởng định mệnh 5 ",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhCaSi/Beethoven.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/NhacGiaoHuong/BanGiaoHuongDinhMenh5-Beethoven-4054230.mp3",
+  "casi": "Beethoven ",
+  "__v": 0,
+  "tacgia": "Beethoven"
+},{
+  "_id": {
+    "$oid": "625acd0defa4b0d848181467"
+  },
+  "idbaihat": "902003",
+  "idalbum": "0",
+  "idtheloai": "9",
+  "tenbaihat": "Bản giao hưởng định mệnh 2",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhCaSi/Beethoven.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/NhacGiaoHuong/Ban-Giao-Huong-Dinh-Menh-2-Beethoven.mp3",
+  "casi": "Beethoven ",
+  "__v": 0,
+  "tacgia": "Beethoven"
+},{
+  "_id": {
+    "$oid": "625acd91efa4b0d84818146d"
+  },
+  "idbaihat": "1001001",
+  "idalbum": "0",
+  "idtheloai": "10",
+  "tenbaihat": "Stay with me",
+  "hinhbaihat": "http://192.168.1.5/Server/Data/AnhNhac/StayWithMe.jpg",
+  "linkbaihat": "http://192.168.1.5/Server/Data/Nhac/OST/StayWithMe-ChanYeolEXOPunch-4939315.mp3",
+  "casi": "Chan Yeol",
+  "__v": 0,
+  "tacgia": "Chan Yeol"
+}]

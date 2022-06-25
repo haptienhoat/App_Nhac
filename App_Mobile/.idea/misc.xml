@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/activity_baihat.xml" value="0.1" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/activity_danhsachtatca_album.xml" value="0.10185185185185185" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/activity_danhsachtatca_casi.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/activity_danhsachtatca_theloai.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/activity_play_nhac.xml" value="0.1" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/dong_album.xml" value="0.1" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/dong_all_album.xml" value="0.1" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/dong_all_casi.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/dong_all_theloai.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/dong_banner.xml" value="0.25" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/dong_casi.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/dong_danh_sach_bai_hat.xml" value="0.1" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/dong_play_bai_hat.xml" value="0.2" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/dong_search_album.xml" value="0.25" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/dong_search_bai_hat.xml" value="0.1" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/dong_search_ca_si.xml" value="0.25" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/dong_search_tac_gia.xml" value="0.25" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/dong_search_the_loai.xml" value="0.25" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/dong_theloai.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/fragment_album.xml" value="0.1" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/fragment_banner.xml" value="0.1" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/fragment_casi.xml" value="0.1" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/fragment_dia_nhac.xml" value="0.1" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/fragment_play_danh_sach_cac_bai_hat.xml" value="0.1" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/fragment_search.xml" value="0.2" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/fragment_theloai.xml" value="0.1" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/layout/notification.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/menu/search_view.xml" value="0.1" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/App_Mobile/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/New folder/App_Mobile/app/src/main/res/layout/activity_main.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/New folder/App_Mobile/app/src/main/res/layout/dong_banner.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/New folder/App_Mobile/app/src/main/res/layout/fragment_banner.xml" value="0.1381340579710145" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/New folder/App_Mobile/app/src/main/res/layout/fragment_home.xml" value="0.1381340579710145" />
+        <entry key="..\:/Users/hapti/AndroidStudioProjects/New folder/App_Mobile/app/src/main/res/layout/fragment_theloai.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

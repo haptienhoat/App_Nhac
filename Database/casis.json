@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "6258dc095e25521c3a65237b"
+  },
+  "idcasi": "101",
+  "tencasi": "Tóc Tiên",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/TocTien.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6258f4d35e25521c3a652385"
+  },
+  "idcasi": "102",
+  "tencasi": "Văn Mai Hương",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/VanMaiHuong.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6258f88b5e25521c3a652393"
+  },
+  "idcasi": "103",
+  "tencasi": "Bích Phương",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/BichPhuong.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6258fc185e25521c3a65239f"
+  },
+  "idcasi": "104 ",
+  "tencasi": "Sơn Tùng MTP",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/SonTung.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62598d305e25521c3a6523ad"
+  },
+  "idcasi": "105",
+  "tencasi": "Dương Edward",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/DuongEdward.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625994355e25521c3a6523b3"
+  },
+  "idcasi": "201",
+  "tencasi": "Thùy Chi",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/ThuyChi.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625994535e25521c3a6523b5"
+  },
+  "idcasi": "202",
+  "tencasi": "Bé Bào Ngư",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/BeBaoNgu.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625999d55e25521c3a6523c5"
+  },
+  "idcasi": "301",
+  "tencasi": "911",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/911.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625999f05e25521c3a6523c7"
+  },
+  "idcasi": "302",
+  "tencasi": "Train",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/Train.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62599a115e25521c3a6523c9"
+  },
+  "idcasi": "303",
+  "tencasi": "Shane Filan",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/ShaneFilan.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625a3d02efa4b0d8481813ed"
+  },
+  "idcasi": "304",
+  "tencasi": "Hồng Thanh",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/HongThanh.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625a3ebeefa4b0d8481813f3"
+  },
+  "idcasi": "401",
+  "tencasi": "Hoàng Rob",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/HoangRob.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625aa697efa4b0d848181407"
+  },
+  "idcasi": "501",
+  "tencasi": "Khánh Ly",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/KhanhLy.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625aa87aefa4b0d848181415"
+  },
+  "idcasi": "601",
+  "tencasi": "Alan Walker ",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/AlanWalker.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625aaba2efa4b0d84818142f"
+  },
+  "idcasi": "701",
+  "tencasi": "Adele",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/Adele.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625ac048efa4b0d84818143b"
+  },
+  "idcasi": "702",
+  "tencasi": "Justin Bieber ",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/JustinBieber.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625aca45efa4b0d84818144d"
+  },
+  "idcasi": "801",
+  "tencasi": "Taylor Swift",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/TaylorSwift.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625acbd2efa4b0d84818145d"
+  },
+  "idcasi": "901",
+  "tencasi": "Richard Clayderman",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/RichardClayderman.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625acbf4efa4b0d84818145f"
+  },
+  "idcasi": "902",
+  "tencasi": "Beethoven ",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/Beethoven.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625acd53efa4b0d84818146b"
+  },
+  "idcasi": "1001",
+  "tencasi": "Chan Yeol",
+  "hinhcasi": "http://192.168.1.5/Server/Data/AnhCaSi/Chanyeol.jpg",
+  "__v": 0
+}]
